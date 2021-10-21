@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MateusLuchetta
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and DataScience w/ Oracle SQL.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mateus_luchetta@hotmail.com
 
 <!---
